@@ -1,0 +1,5 @@
+AvatarImage() got an unexpected keyword argument 'file_path'
+AvatarImage() got an unexpected keyword argument 'file_path'
+
+AvatarImage() got an unexpected keyword argument 'file_path'
+
